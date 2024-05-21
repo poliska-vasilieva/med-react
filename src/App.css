@@ -1,0 +1,35 @@
+ul {
+  font-size: 24px;
+  color: rgb(0,101,155);
+  font-weight: bold;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  margin: 0 8px;
+}
+
+.App-logo {
+  width: 100%;
+  height: auto;
+}
+
+.mainBlock {
+  display: flex;
+}
+
+.firstBlock {
+  background-color: azure;
+}
+
+.secondBlock {
+  background-color: burlywood;
+}
+
+.imgfirstBlock {
+  background-color: rgb(6, 11, 154);
+  width: 100px;
+  height: 100px;
+}
