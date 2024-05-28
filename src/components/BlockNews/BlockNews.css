@@ -1,0 +1,26 @@
+.MainNewPicture {
+    max-width: 100%;
+    height: auto;
+}
+
+.MainBlock {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+  
+.FirstBlock, .SecondBlock {
+    max-width: 340px;
+}
+
+.ThreeNews {
+    display: flex;
+    flex-direction: column;
+}
+  
+.ThirdBlock {
+    background-color: #81B9E4;
+    max-width: 330px;
+    height: auto;
+}  
