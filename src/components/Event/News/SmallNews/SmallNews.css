@@ -1,0 +1,11 @@
+.MiniNew {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+.SmallNews {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

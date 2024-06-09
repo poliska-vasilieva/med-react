@@ -1,0 +1,24 @@
+.Division {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 17px;
+}
+
+.CardDivivsion {
+    background-color: #81B9E4;
+    border-radius: 20px;
+    padding: 10px 
+}
+
+.Divisions {
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+}
+
+.DivisionTitle {
+    color: #326496;
+    font-size: 20px;
+    font-weight: 600;
+}

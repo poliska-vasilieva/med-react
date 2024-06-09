@@ -8,3 +8,8 @@
   max-width: 1320px;
   margin: 0 auto;
 }
+
+.EventBlock {
+  display: flex;
+  flex-direction: row;
+}
